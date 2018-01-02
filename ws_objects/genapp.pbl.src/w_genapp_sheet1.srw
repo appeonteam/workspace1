@@ -53,7 +53,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "ddddd"
 end type
 
 type cb_2 from commandbutton within w_genapp_sheet1
@@ -68,7 +68,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "asdadfa"
 end type
 
 type cb_1 from commandbutton within w_genapp_sheet1
